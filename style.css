@@ -1,0 +1,54 @@
+header {
+  text-align: center;
+  width: 100%;
+  padding: 5%;
+  background-color: beige;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Arimo", sans-serif;
+}
+
+.title_font {
+  font-size: 50px;
+}
+
+.subtitle_font {
+  font-size: 18px;
+}
+
+.container1 {
+  width: 20vh;
+  margin-top: 20px;
+  margin-right: 25vh;
+}
+
+.input_boxes {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+button {
+  align-items: center;
+}
+
+.container2 {
+  width: 40vh;
+  margin-top: 20px;
+}
+
+.flex {
+  display: flex;
+  /* justify-content: center; */
+  width: 100%;
+  margin: 0 30px;
+  padding: 0 15px;
+  justify-content: center;
+}
